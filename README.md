@@ -19,28 +19,28 @@ Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. 
 ## Sosyal Medya
 <div align="center">
   <a href="https://www.linkedin.com/in/elif-incekara/">
-    <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/linkedin-icon.png" alt="LinkedIn" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/elifincekara">
-    <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/github-icon.png" alt="GitHub" width="50"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ## Teknik Yetenekler
 <div align="center">
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/python-icon.png" alt="Python" width="50"/>
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/sql-icon.png" alt="SQL" width="50"/>
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/power-bi-icon.png" alt="Power BI" width="50"/>
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/excel-icon.png" alt="Excel" width="50"/>
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/tableau-icon.png" alt="Tableau" width="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </div>
 
 ## GitHub İstatistikleri
 <div align="center">
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/github-stats-banner.png" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elifincekara&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ## Hakkımda Görseli
 <div align="center">
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profil Görseli" width="400"/>
+  <img src="https://path-to-your-image/ei.jpeg" alt="Profil Görseli" width="400"/>
 </div>
