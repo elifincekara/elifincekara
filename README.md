@@ -10,7 +10,7 @@ I am an aspiring data analyst specializing in data analysis and visualization. I
 - Currently learning: Machine learning and advanced data analysis techniques
 - Seeking collaboration in: Open-source data projects
 - Feel free to ask me about: Data analysis and visualization
-- Contact me at: elifincekara@gmail.com
+- Contact me at: incekaraa.elif@gmail.com
 
 ## Education
 I graduated from Uludağ University with a degree in International Relations.
