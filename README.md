@@ -1,9 +1,8 @@
-# Elif Incekara
-
-## Hakkımda Görseli
-<div align="center">
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profil Görseli" width="400"/>
+<div align="left">
+  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profil Görseli" width="100"/>
 </div>
+
+# Elif Incekara
 
 ## Hakkımda
 Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. Python, SQL ve Power BI kullanarak çeşitli projeler geliştiriyorum. Büyük veri setleriyle çalışmayı ve bu verileri anlamlı bilgilere dönüştürmeyi seviyorum.
