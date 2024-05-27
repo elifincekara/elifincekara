@@ -21,9 +21,6 @@ Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. 
   <a href="https://www.linkedin.com/in/elif-incekara/">
     <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/linkedin-icon.png" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://ideogram.com/elifincekara">
-    <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ideogram-icon.png" alt="Ideogram" width="50"/>
-  </a>
   <a href="https://github.com/elifincekara">
     <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/github-icon.png" alt="GitHub" width="50"/>
   </a>
