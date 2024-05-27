@@ -1,11 +1,11 @@
 <div align="left">
-  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profile Picture" width="100"/>
+  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profile Picture" width="150"/>
 </div>
 
 # Elif Incekara
 
 ## About Me
-I am an aspiring data analyst specialized in data analysis and visualization. I develop various projects using Python, SQL, and Power BI. I enjoy working with large datasets and transforming them into meaningful insights.
+I am an aspiring data analyst specializing in data analysis and visualization. I develop various projects using Python, SQL, and Power BI. I enjoy working with large datasets and transforming them into meaningful insights.
 
 - Currently learning: Machine learning and advanced data analysis techniques
 - Seeking collaboration in: Open-source data projects
