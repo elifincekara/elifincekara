@@ -1,5 +1,10 @@
 # Elif Incekara
 
+## Hakkımda Görseli
+<div align="center">
+  <img src="https://github.com/elifincekara/elifincekara/blob/main/assets/ei.jpeg" alt="Profil Görseli" width="400"/>
+</div>
+
 ## Hakkımda
 Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. Python, SQL ve Power BI kullanarak çeşitli projeler geliştiriyorum. Büyük veri setleriyle çalışmayı ve bu verileri anlamlı bilgilere dönüştürmeyi seviyorum.
 
@@ -24,6 +29,9 @@ Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. 
   <a href="https://github.com/elifincekara">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://ideogram.ai/u/sorcerousstitch/pinned">
+    <img src="https://img.shields.io/badge/Ideogram-lightgrey?style=for-the-badge&logo=ideogram&logoColor=white" alt="Ideogram"/>
+  </a>
 </div>
 
 ## Teknik Yetenekler
@@ -32,14 +40,10 @@ Veri analizi ve görselleştirme alanında uzmanlaşmış bir veri analistiyim. 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </div>
 
 ## GitHub İstatistikleri
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elifincekara&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-## Hakkımda Görseli
-<div align="center">
-  <img src="https://path-to-your-image/ei.jpeg" alt="Profil Görseli" width="400"/>
 </div>
